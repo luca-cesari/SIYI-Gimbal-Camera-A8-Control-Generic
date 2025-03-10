@@ -1,0 +1,9 @@
+{
+    "id_drone": "your_drone_id",
+    "ffmpeg_input_url": "rtsp://your_server_ip:8554/main.264",
+    "ffmpeg_output_url": "srt://your_server_ip:9999",
+    "mqtt_broker": "your_server_ip",
+    "mqtt_port": 1883,
+    "server_address": "your_server_ip",
+    "server_port": 37260
+}
