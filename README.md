@@ -1,5 +1,7 @@
 # A8mini-gimbal-camera-control
 
+Esta aplicación permite controlar una cámara gimbal A8mini a través de comandos enviados por MQTT. Los comandos pueden incluir ajustes de pitch y yaw para mover la cámara, así como comandos para iniciar y detener la grabación de video. La aplicación también maneja la transmisión de video en tiempo real utilizando `ffmpeg` y permite la ejecución de scripts personalizados para manejar misiones específicas.
+
 ## Detalles e Instrucciones por MQTT
 
 - **Conexión:** `your_server_ip`
